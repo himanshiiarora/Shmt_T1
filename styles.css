@@ -305,6 +305,9 @@ nav{
     height: 4em;
     justify-content: center;
   }
+  .textover{
+    margin-bottom: 1em;
+  }
 }
 .CareProviderHeading{
   font-weight: bolder;
@@ -613,6 +616,29 @@ h2 {
     height: 12em;
     width: 12em;
     margin: 1em;
+  }
+  .arr{
+    display: none;
+  }
+  .con{
+    margin: 1em;
+  }
+  .numbers{
+    padding: 0.2em;
+  }
+  .step{
+    width: 3em;
+    height: 3em;
+    border-radius: 10em;
+    margin: 0px;
+  }
+  .doc_ig{
+    margin-left: 7em;
+  }
+  .getplus{
+    margin: 1.5em;
+    margin-left: 2.7em;
+    width: 1em;
   }
 }
 
