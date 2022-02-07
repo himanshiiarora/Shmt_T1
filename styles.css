@@ -433,6 +433,19 @@ h2{
   letter-spacing: 1px;
   font-family: 'Poppins', sans-serif;
 }
+.button{
+  border-radius: 20px; 
+  background-color: blue; 
+  color: #fff;
+  cursor: pointer;
+  width: 100px;
+  height: 35px;
+  
+}
+.button:hover{
+width: 105px;
+height: 45px;
+}
 
 .flex-container {
   display: -webkit-box;
